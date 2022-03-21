@@ -1,0 +1,31 @@
+#headerDiv {
+  height: 500px;
+  display: flex;
+}
+
+#buttonDiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-img-top {
+  display: flex;
+  align-content: center;
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 400px;
+}
+
+.card {
+  display: flex;
+  margin: 1em;
+  display: grid;
+}
+
+.nofaceGif {
+  position: absolute;
+  top: 2em;
+  right: 2em;
+  max-height: 100px;
+}
